@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @saihong28
-- 👀 I’m interested in SLAM
-- 🌱 I’m currently learning 3D reconstruction
-- 💞️ I’m looking to collaborate on Visiual Slam
+- 👀 I’m interested in GEOAI
 - 📫 How to reach me liboyang0209@163.com
 
 <!---
